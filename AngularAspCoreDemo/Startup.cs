@@ -7,6 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace AngularAspCoreDemo
 {
+    // start up
     public class Startup
     {
         public Startup(IConfiguration configuration)
